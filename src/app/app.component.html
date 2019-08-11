@@ -1,0 +1,12 @@
+<!-- <app-homepage *ngIf="!authonization"></app-homepage> -->
+<div class="wrapper" *ngIf="authonization">
+
+  <app-header></app-header>
+
+  <app-nav></app-nav>
+
+  <div class="content-wrapper">
+    <router-outlet></router-outlet>
+  </div>
+  <app-footer></app-footer>
+</div>

@@ -1,0 +1,188 @@
+{
+  "category": [
+    {
+      "id": "0692e4d5-aad2-40ec-95ef-b76767264f28",
+      "categoryName": "thuan",
+      "userIdCreated": "1",
+      "dateCreated": "2019-05-21",
+      "status": "1"
+    },
+    {
+      "id": "0325230f-76e3-430d-a21e-a433289eab13",
+      "categoryName": "hieu",
+      "userIdCreated": "2",
+      "dateCreated": "2015-03-21",
+      "status": "1"
+    },
+    {
+      "id": "a09acdc9-8b84-4f10-8519-a0978b52af37",
+      "categoryName": "nhung ",
+      "userIdCreated": "5",
+      "dateCreated": "2019-02-21",
+      "status": "0"
+    },
+    {
+      "id": "8e06f2a5-4dca-4196-897c-ff7868284539",
+      "categoryName": "nhung nhit",
+      "userIdCreated": "3",
+      "dateCreated": "2019-02-12",
+      "status": "1"
+    },
+    {
+      "id": "4d952292-dfb4-4d8d-99bd-10eb7fd23285",
+      "categoryName": "121",
+      "userIdCreated": "11",
+      "dateCreated": "2019-02-13",
+      "status": "1"
+    }
+  ],
+  "question": [
+      {
+        "id": "q01",
+        "content": "what is this?????",
+        "sugguestion": "1",
+        "status": 1,
+        "dateCreated": "2018-12-22T17:00:00.000+0000",
+        "questionCategory": {
+          "id": 2,
+          "categoryName": "java",
+          "dateCreated": "2017-12-31T17:00:00.000+0000",
+          "status": 1,
+          "userCategory": {
+            "id": 1,
+            "fullName": "thanh",
+            "email": "thanh@gmail.com",
+            "mobile": "123123123",
+            "password": "123456",
+            "status": 1
+          }
+        },
+        "questionType": {
+          "id": 2,
+          "typeName": "multi choice",
+          "status": 1
+        },
+        "questionLevel": {
+          "id": 1,
+          "levelName": "easy",
+          "status": 1
+        },
+        "questionTag": {
+          "id": 1,
+          "tagName": "b",
+          "status": 1
+        },
+        "userQuestion": {
+          "id": 1,
+          "fullName": "thanh",
+          "email": "thanh@gmail.com",
+          "mobile": "123123123",
+          "password": "123456",
+          "status": 1
+        },
+        "questionAnswer": []
+      },
+      {
+        "id": "q02",
+        "content": "b thanh",
+        "sugguestion": "2",
+        "status": 1,
+        "dateCreated": "2018-12-22T17:00:00.000+0000",
+        "questionCategory": {
+          "id": 3,
+          "categoryName": ".net",
+          "dateCreated": "2017-12-31T17:00:00.000+0000",
+          "status": 1,
+          "userCategory": {
+            "id": 1,
+            "fullName": "thanh",
+            "email": "thanh@gmail.com",
+            "mobile": "123123123",
+            "password": "123456",
+            "status": 1
+          }
+        },
+        "questionType": {
+          "id": 2,
+          "typeName": "multi choice",
+          "status": 1
+        },
+        "questionLevel": {
+          "id": 2,
+          "levelName": "normal",
+          "status": 1
+        },
+        "questionTag": {
+          "id": 2,
+          "tagName": "c",
+          "status": 1
+        },
+        "userQuestion": {
+          "id": 1,
+          "fullName": "thanh",
+          "email": "thanh@gmail.com",
+          "mobile": "123123123",
+          "password": "123456",
+          "status": 1
+        },
+        "questionAnswer": []
+      },
+      {
+        "id": "q03",
+        "content": "c tao",
+        "sugguestion": "1",
+        "status": 1,
+        "dateCreated": "2018-12-22T17:00:00.000+0000",
+        "questionCategory": {
+          "id": 2,
+          "categoryName": "java",
+          "dateCreated": "2017-12-31T17:00:00.000+0000",
+          "status": 1,
+          "userCategory": {
+            "id": 1,
+            "fullName": "thanh",
+            "email": "thanh@gmail.com",
+            "mobile": "123123123",
+            "password": "123456",
+            "status": 1
+          }
+        },
+        "questionType": {
+          "id": 1,
+          "typeName": "only choice",
+          "status": 1
+        },
+        "questionLevel": {
+          "id": 3,
+          "levelName": "hard",
+          "status": 1
+        },
+        "questionTag": {
+          "id": 3,
+          "tagName": "a",
+          "status": 1
+        },
+        "userQuestion": {
+          "id": 1,
+          "fullName": "thanh",
+          "email": "thanh@gmail.com",
+          "mobile": "123123123",
+          "password": "123456",
+          "status": 1
+        },
+        "questionAnswer": []
+      }
+  ],
+  "level": [
+    {
+      "id": 1,
+      "level_name": "lvl1",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "level_name": "lvl2",
+      "status": 1
+    }
+  ]
+}
